@@ -29,3 +29,8 @@ to the remote branches that already exist with the same name.
 
 To show what changes are staged already, we can use git diff --staged
 
+To compare that commit and the one one before we can do git diff <commit>^!, 
+where the ^! tells git to compare to the commit one before. 
+So in this case I run 
+
+git diff 1e9f697d90a11e709e8ac67ea16ed80fa2f69507^!
