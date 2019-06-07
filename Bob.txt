@@ -34,3 +34,12 @@ where the ^! tells git to compare to the commit one before.
 So in this case I run 
 
 git diff 1e9f697d90a11e709e8ac67ea16ed80fa2f69507^!
+
+
+
+After fast forward merge
+Merging divergent branches
+
+Let's try something more complex.
+
+Add some text on a new line to Bob.txt on master and commit it. 
