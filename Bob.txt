@@ -43,3 +43,10 @@ Merging divergent branches
 Let's try something more complex.
 
 Add some text on a new line to Bob.txt on master and commit it. 
+
+After fast forward merge
+Merging divergent branches
+
+Let's try something more complex.
+
+Add some text on a new line to Bob.txt on master and commit it. 
