@@ -50,7 +50,19 @@ Merging divergent branches
 Let's try something more complex.
 
 Add some text on a new line to Bob.txt on master and commit it. 
-
 ________________________________________________
 
 checkout master again. Here we'll change that same line to Hi!! I'm Bob. I've been here for a while now. and commit your change. 
+______________________________________________________________
+Resolving conflicts
+
+So far our changes haven't interfered with each other.
+
+Let's introduce a conflict and then resolve it:
+ 
+ git checkout -b bobby_branch
+Switched to a new branch 'bobby_branch'
+I'm Bobby. I'm new here.
+
+Stage and then commit your change, before you checkout master again. 
+i.e.
