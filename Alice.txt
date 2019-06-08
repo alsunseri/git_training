@@ -1,3 +1,13 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 On branch change_alice
 On branch change_alice again... this time to test  "git push --set-upstream origin change_alice," 
+
+
+
+Merging divergent branches  - Let's try something more complex. 
+... changed Bob.txt
+
+Then git checkout change_alice, change Alice.txt and commit.
+
+In the diagram below you see how our commit history now looks. Both master and change_alice originated from the same commit, but since then they diverged, each having their own additional commit. 
+
