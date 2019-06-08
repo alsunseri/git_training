@@ -50,3 +50,7 @@ Merging divergent branches
 Let's try something more complex.
 
 Add some text on a new line to Bob.txt on master and commit it. 
+
+________________________________________________
+
+checkout master again. Here we'll change that same line to Hi!! I'm Bob. I've been here for a while now. and commit your change. 
