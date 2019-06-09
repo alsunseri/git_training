@@ -1,0 +1,5 @@
+Patrick.txt
+
+ checkout the master branch again, then create/checkout a new branch based on it.
+I called mine add_patrick and I added a new Patrick.txt file and committed that with the message 'Add Patrick'. 
+
