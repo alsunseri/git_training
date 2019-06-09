@@ -18,3 +18,4 @@ Rebasing When you've added a commit to the branch, get back to master, make a ch
 now in master..  editing in github ( not locally via vim / sublime/ eclipse ) 
 Go to your fork of this repo on github.com and open the Alice.txt file.
 Find the edit button and make and commit a change via the website. 
+Trying this again after pushing older ( local ) commits - editing Alice.txt on github website
