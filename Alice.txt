@@ -11,3 +11,6 @@ Then git checkout change_alice, change Alice.txt and commit.
 
 In the diagram below you see how our commit history now looks. Both master and change_alice originated from the same commit, but since then they diverged, each having their own additional commit. 
 
+
+
+Rebasing When you've added a commit to the branch, get back to master, make a change and commit it. I added some more text to Alice.txt.  
