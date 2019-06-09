@@ -1,2 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 On branch change_alice
+
+now in master..  editing in github ( not locally via vim / sublime/ eclipse ) 
+Go to your fork of this repo on github.com and open the Alice.txt file.
+Find the edit button and make and commit a change via the website. 
