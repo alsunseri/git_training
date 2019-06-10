@@ -34,4 +34,7 @@ Anyway - these 2lines are local changes to be stashed and committed after the NE
 Pulling with Conflicts  - doing the local stash again because the tutorial did not say "Do not push the commit " untill the next section - 
 after I did a git push to master
 Post-commit pre-push change to remote - sets up diverged repos!
+_____________________________
+OK  - figured it out. The remote branch was not being tracked - why i dont know yet but this fixed it:
+git branch --set-upstream-to origin/master 
 
