@@ -22,3 +22,5 @@ Find the edit button and make and commit a change via the website.
 .... not in the tutorial -  push before  ... 
 trying again to track remote vs local changes 
 Trying this again after pushing older ( local ) commits - editing Alice.txt on github website
+
+OK- this is a change on the website to the remote Alice.txt.
