@@ -24,3 +24,7 @@ trying again to track remote vs local changes
 Trying this again after pushing older ( local ) commits - editing Alice.txt on github website
 
 OK- this is a change on the website to the remote Alice.txt.
+
+
+Ok that sorta worked - but git fetch still is not showing what it should? 
+Anyway - these 2lines are local changes to be stashed and committed after the NEXT pull - after remote changes....
