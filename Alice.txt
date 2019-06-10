@@ -38,3 +38,4 @@ _____________________________
 OK  - figured it out. The remote branch was not being tracked - why i dont know yet but this fixed it:
 git branch --set-upstream-to origin/master 
 
+OK -  remote changes will show only if remote branch is being tracked...
