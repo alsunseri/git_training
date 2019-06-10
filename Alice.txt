@@ -30,3 +30,6 @@ Ok that sorta worked - but git fetch still is not showing what it should?
 Anyway - these 2lines are local changes to be stashed and committed after the NEXT pull - after remote changes....
 
 ##### Pulling with Conflicts  -remote change to redo above steps in next section....
+
+Pulling with Conflicts  - doing the local stash again because the tutorial did not say "Do not push the commit " untill the next section - 
+after I did a git push to master
